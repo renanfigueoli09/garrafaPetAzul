@@ -1,7 +1,7 @@
 {
   "name": "garrafapetazul",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto do dia 19/10/2022",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
